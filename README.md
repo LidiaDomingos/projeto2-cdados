@@ -2,7 +2,7 @@
 # Engenharia - Insper 
 # Disciplina: Ciência dos Dados (requerido por Maria Kelly Venezuela)
 # Contribuidores 
-    Lidia Chagas
+    Lidia Domingos
     Layne Silva
 
 # Objetivo
