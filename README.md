@@ -8,9 +8,20 @@
 # Objetivo
 Utilizar técnicas de classificação como Regressão Logística, Árvore de decisão e Floresta Aleatória após selecionadas determinadas features para verificar se é possível classificar um câncer de mama em benigno ou maligno.
 
+# Descrição dos arquivos contidos no repositório 
+Na pasta data encotrasse o dataset utilizado para o projeto. Já na pasta scr encontrasse as análises e desenvolvimento do projeto.
+
 # Dataset utilizado
 link: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
-Também pode ter seus dados acessados no excel da pasta!
+Também pode ter seus dados acessados na pasta data!
+
+# Cronograma estabelecido
+ 16/05 - Kickoff do projeto
+ 23/05 - Leitura do Dataset e Início do JupyterNotebook
+ 28/05 - Análise exploratória do DataSet concluída
+ 01/06 - Gerando alguma resposta do algoritmo escolhido - Aplicando técnicas
+ 03/06 - Entrega dos resultados
+ 08/06 - Entrega do projeto finalizado
 
 # Referências bibliográficas utilizadas para melhor desenvolvimento do projeto
 
@@ -47,5 +58,11 @@ Também pode ter seus dados acessados no excel da pasta!
 16. http://diegonogare.net/2020/04/performance-de-machine-learning-matriz-de-confusao/
 
 17. https://drigols.medium.com/introdu%C3%A7%C3%A3o-a-valida%C3%A7%C3%A3o-cruzada-k-fold-2a6bced32a90
-18. https://support.minitab.com/pt-br/minitab/19/help-and-how-to/statistical-modeling/predictive-analytics/how-to/cart-regression/interpret-the-results/all-statistics-and-graphs/model-summary-table/
+
+18. https://support.minitab.com/pt-br/minitab/19/help-and-how-to/
+statistical-modeling/predictive-analytics/how-to/cart-regression/interpret-the-results/all-statistics-and-graphs/model-summary-table/
+
+19. https://paulovasconcellos.com.br/como-selecionar-as-melhores-features-para-seu-modelo-de-machine-learning-2e9df83d062a?gi=29303c345391
+
+
 
