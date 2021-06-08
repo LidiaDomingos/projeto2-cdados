@@ -9,7 +9,7 @@
 Utilizar técnicas de classificação como Regressão Logística, Árvore de decisão e Floresta Aleatória após selecionadas determinadas features para verificar se é possível classificar um câncer de mama em benigno ou maligno.
 
 # Descrição dos arquivos contidos no repositório 
-Na pasta data encotrasse o dataset utilizado para o projeto. Já na pasta scr encontrasse as análises e desenvolvimento do projeto.
+Na pasta img, contém as imagens utilizadas no relatório. No arquivo 'dados_cancer.csv', têm-se o dataset utilizado para o projeto. Já no arquivo 'Projeto 2 - cdados.ipynb', encontra-se o relatório com as análises e desenvolvimento do projeto.
 
 # Dataset utilizado
 link: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
